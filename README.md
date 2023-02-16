@@ -12,4 +12,4 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## For running json server command
-npx json-server --watch db.json --port 8000
+`npx json-server --watch db.json --port 8000`
